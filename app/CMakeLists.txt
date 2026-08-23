@@ -1,0 +1,2 @@
+add_executable(openreport main.cpp)
+target_link_libraries(openreport PRIVATE openreport_core)
