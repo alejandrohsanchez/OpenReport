@@ -1,9 +1,13 @@
-add_library(openreport_core INTERFACE)
+add_library(
+    openreport_core
+    STATIC
+        src/actions/LoadCsvAction.cpp    
+)
 
 target_include_directories(
     openreport_core
-    INTERFACE
+    PUBLIC
         ${CMAKE_CURRENT_SOURCE_DIR}/include
 )
 
-target_compile_features(openreport_core INTERFACE cxx_std_20)
+target_compile_features(openreport_core PUBLIC cxx_std_20)

@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/aleja/Development/GitHubRepos/OpenReport/build/cmake_install.cmake",
+		"C:/Users/aleja/Development/GitHubRepos/OpenReport/build/core/cmake_install.cmake",
+		"C:/Users/aleja/Development/GitHubRepos/OpenReport/build/app/cmake_install.cmake",
+		"C:/Users/aleja/Development/GitHubRepos/OpenReport/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

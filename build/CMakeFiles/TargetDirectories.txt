@@ -1,0 +1,15 @@
+C:/Users/aleja/Development/GitHubRepos/OpenReport/build/CMakeFiles/test.dir
+C:/Users/aleja/Development/GitHubRepos/OpenReport/build/CMakeFiles/edit_cache.dir
+C:/Users/aleja/Development/GitHubRepos/OpenReport/build/CMakeFiles/rebuild_cache.dir
+C:/Users/aleja/Development/GitHubRepos/OpenReport/build/core/CMakeFiles/openreport_core.dir
+C:/Users/aleja/Development/GitHubRepos/OpenReport/build/core/CMakeFiles/test.dir
+C:/Users/aleja/Development/GitHubRepos/OpenReport/build/core/CMakeFiles/edit_cache.dir
+C:/Users/aleja/Development/GitHubRepos/OpenReport/build/core/CMakeFiles/rebuild_cache.dir
+C:/Users/aleja/Development/GitHubRepos/OpenReport/build/app/CMakeFiles/openreport.dir
+C:/Users/aleja/Development/GitHubRepos/OpenReport/build/app/CMakeFiles/test.dir
+C:/Users/aleja/Development/GitHubRepos/OpenReport/build/app/CMakeFiles/edit_cache.dir
+C:/Users/aleja/Development/GitHubRepos/OpenReport/build/app/CMakeFiles/rebuild_cache.dir
+C:/Users/aleja/Development/GitHubRepos/OpenReport/build/tests/CMakeFiles/openreport_core_tests.dir
+C:/Users/aleja/Development/GitHubRepos/OpenReport/build/tests/CMakeFiles/test.dir
+C:/Users/aleja/Development/GitHubRepos/OpenReport/build/tests/CMakeFiles/edit_cache.dir
+C:/Users/aleja/Development/GitHubRepos/OpenReport/build/tests/CMakeFiles/rebuild_cache.dir

@@ -16,7 +16,7 @@ namespace openreport {
 
             DataSet(std::vector<std::string> columnNames, std::vector<Row> rows)
                 : columnNames_(std::move(columnNames)),
-                  rows_(std::move(rows));
+                  rows_(std::move(rows))
             {
             }
 

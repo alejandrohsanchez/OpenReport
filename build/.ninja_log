@@ -1,0 +1,7 @@
+# ninja log v7
+56	966	8096074756389673	tests/CMakeFiles/openreport_core_tests.dir/core_types_tests.cpp.obj	c2fc0207a5a6e13a
+22	620	8091691832472657	app/CMakeFiles/openreport.dir/main.cpp.obj	28aec83ae328dccc
+968	1118	8096074765501989	tests/openreport_core_tests.exe	f5814e202b12db7f
+1318	1555	8096069887883417	app/openreport.exe	538601471b3f1784
+73	1100	8096069875426975	core/CMakeFiles/openreport_core.dir/src/actions/LoadCsvAction.cpp.obj	bb5e7cc2910680a5
+1112	1317	8096069885806220	core/libopenreport_core.a	cfe1e55aa1fe613b

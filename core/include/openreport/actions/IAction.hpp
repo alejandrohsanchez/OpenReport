@@ -13,7 +13,7 @@ namespace openreport {
             virtual ~IAction() = default;
 
             [[nodiscard]] virtual std::string name() const = 0;
-            virtual ActionResult execute(const ActionContext& context) = 0;
+            virtual ActionResult execute(ActionContext& context) = 0;
     };
 
 } // namespace openreport
